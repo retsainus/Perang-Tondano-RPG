@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"MC1","characterIndex":0,"characterName":"MC1","classId":1,"equips":[7,0,2,3,0],"faceIndex":0,"faceName":"MC1","traits":[{"code":41,"dataId":1,"value":1},{"code":41,"dataId":2,"value":1},{"code":41,"dataId":3,"value":1},{"code":43,"dataId":27,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Tuama","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Prajurit_Geco1","characterIndex":0,"characterName":"Prajurit_Geco","classId":2,"equips":[2,1,0,3,4],"faceIndex":0,"faceName":"Prajurit_Geco","traits":[],"initialLevel":5,"maxLevel":99,"name":"Prajurit Gecomitterden","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Prajurit_Geco2","characterIndex":1,"characterName":"Prajurit_Geco","classId":4,"equips":[4,0,0,3,0],"faceIndex":1,"faceName":"Prajurit_Geco","traits":[],"initialLevel":5,"maxLevel":99,"name":"Prajurit Gecomitterden 2","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Panglima_Sarapung_Battle","characterIndex":0,"characterName":"Panglima_Sarapung-Korengkeng","classId":1,"equips":[12,31,22,6,44],"faceIndex":0,"faceName":"Panglima_Sarapung-Korengkeng","traits":[],"initialLevel":50,"maxLevel":99,"name":"Kapten Sarapung","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Panglima_Korengkeng_Battle","characterIndex":1,"characterName":"Panglima_Sarapung-Korengkeng","classId":2,"equips":[2,31,22,7,44],"faceIndex":1,"faceName":"Panglima_Sarapung-Korengkeng","traits":[],"initialLevel":50,"maxLevel":99,"name":"Kapten Korengkeng","nickname":"","note":"","profile":""}
+]
